@@ -117,26 +117,63 @@ experiences:
       - Contributed to architectural design decisions
       - Created documentation in Atlassian Confluence
       - Created tickets in Atlassian JIRA
+  - role: Software Engineer
+    time: December 2019 to August 2020
+    company: Garmin
+    details: |
+      - Managed legacy batch processes which rendered map tiles in Azure
+      - Developed tooling in Python, C#, and PowerShell to optimize batch processes
+      - Developed Python application to convert proprietary geospatial format to an open format using numpy
+      - Developed web scrapers to help analysts download raw geospatial data using Selenium and Scrapy
+      - Created documentation for these applications
+  - role: Software Engineer in Test
+    time: March 2019 to August 2020
+    company: dv01
+    details: |
+      - Managed legacy batch processes which rendered map tiles in Azure
+      - Developed tooling in Python, C#, and PowerShell to optimize batch processes
+      - Developed Python application to convert proprietary geospatial format to an open format using numpy
+      - Developed web scrapers to help analysts download raw geospatial data using Selenium and Scrapy
+      - Created documentation for these applications
+  - role: Programmer/Analyst
+    time: June 2016 to March 2019
+    company: dv01
+    details: |
+      - Developed web scraper application for data collection from government websites
+      - Built internal web map application using React, Leaflet, and Flask to help property accessors
+      - Used SAS to maintain legacy reports
+      - Developed tooling in Python to run SAS programs on IBM OS/360 mainframe using FTP
+      - Collaborated with stakeholders on database schema development
+      - Responded to adhoc requests for data from various departments
+  - role: GIS Engineer
+    time: April 2014 to June 2016
+    company: dv01
+    details: |
+      - Designed and maintained geospatial databases to used in analysis
+      - Scrapped various retailer websites using Scrapy to find store locations
+      - Scrapped third-party API's using Scrapy to find data to help develop maps and charts
+      - Stored data in PostGIS geodatabase
+      - Created maps with Adobe Illustrator with Avenza and PostGIS to be used for marketing materials
+      - Created charts with Python, ggplot2 and matplotlib to be used for marketing materials
+      - Responded to adhoc requests for data and maps
+      - Built internal web map application using Flask and jQuery to organize listings
+      - Collaborated with real estate brokers on marketing strategies
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: SQL
     level: 98%
 
-  - name: Angular
-    level: 98%
+  - name: Java
+    level: 70%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: C#
+    level: 70%
 
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
+  - name: Scala
+    level: 70%
