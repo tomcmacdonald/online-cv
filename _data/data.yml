@@ -152,3 +152,15 @@ skills:
 
   - name: SQL
     level: 98%
+
+  - name: Databricks
+    level: 85%
+
+  - name: R
+    level: 85%
+
+  - name: Java
+    level: 70%
+
+  - name: C#
+    level: 60%
