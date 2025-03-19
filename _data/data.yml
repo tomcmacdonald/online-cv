@@ -61,87 +61,90 @@ experiences:
     time: June 2024 - Present
     company: New York Blood Center
     details: |
-      - Developed pipelines in Azure Data Factory and Databricks
-      - Contributed to modeling design work
-      - Spoke with and managed expectations from stakeholders
+      - Developed and maintained data pipelines in Azure Data Factory and Databricks
+      - Designed and optimized data models for analytics and reporting
+      - Built and maintained Tableau dashboards for operational insights
+      - Managed and updated SSIS packages in SQL Server
+      - Wrote and optimized stored procedures to improve database performance
+      - Helped tune and optimize performance of SQL Server data warehouse
+      - Assisted in migrating on-premises data infrastructure to the cloud
   - role: Data Engineer
     time: January 2022 to June 2024
     company: Crowdstreet
     details: |
-      - Created custom data extractors using Python in Singer.io framework
-      - Deployed pipelines using Meltano using AWS Elastic Container Service
-      - Implemented extractions using AWS Lambda
-      - Created pipeline from data warehouse to Salesforce and HubSpot
-      - Modeled data from several different sources with dbt
-      - Collaborated with data scientists to train machine learning models using AWS Sagemaker
-      - Containerized machine learning models in Docker
-      - Deployed models in AWS Elastic Container Service
-      - Deployed AWS infrastructure with Terraform
-      - Managed junior data engineer
-      - Collaborated with data analysts
-      - Administered and maintained Looker project and dashboards
-      - Collaborated with stakeholders from executives in several departments to meet their data needs
-      - Administered Snowflake data warehouse and implemented role-based security to protect personal identifiable information
-      - Created Azure Data Factory pipelines and dataflows
-      - Created Databricks Notebooks using Apache Spark for transformations in Azure Data Factory
-      - Created dashboards in Power BI
-      - Created documentation in Atlassian Confluence
-      - Created tickets in Atlassian JIRA
+      - Built custom data extractors using Python within the Singer.io framework
+      - Developed and deployed ETL pipelines using Meltano on AWS Elastic Container Service
+      - Implemented data extractions with AWS Lambda
+      - Designed and maintained data pipelines connecting the data warehouse to Salesforce and HubSpot
+      - Modeled and transformed data from multiple sources using dbt
+      - Partnered with data scientists to train machine learning models in AWS SageMaker
+      - Containerized and deployed machine learning models using Docker and AWS Elastic Container Service
+      - Provisioned and managed AWS infrastructure with Terraform
+      - Supervised and mentored a junior data engineer
+      - Worked closely with data analysts to support reporting and insights
+      - Administered and maintained Looker projects and dashboards
+      - Engaged with executives and stakeholders across departments to align data solutions with business needs
+      - Managed Snowflake data warehouse security, implementing role-based access controls to protect PII
+      - Developed data pipelines and transformations in Azure Data Factory and Databricks
+      - Built interactive dashboards in Power BI for business reporting
+      - Documented workflows, architecture, and best practices in Atlassian Confluence
+      - Tracked and managed tasks using Atlassian JIRA
   - role: Senior Software Engineer
     time: August 2020 to January 2022
     company: Blackhawk Network
     details: |
-      - Implemented OIDC authentication for Django
-      - Implemented OAuth2 server-to-server authentication between microservices using Django and Flask
-      - Contributed to Django, Flask, and React projects
-      - Monitored application using Sentry
-      - Monitored infrastructure using AWS CloudWatch
-      - Developed a rule engine to automatically tag orders
+      - Implemented OIDC authentication in Django to enhance security and user management
+      - Contributed to backend and frontend development in Django, Flask, and React projects
+      - Monitored application health and performance using Sentry
+      - Managed infrastructure monitoring and alerts with AWS CloudWatch
+      - Built a rule engine to automatically tag and categorize orders
+      - Worked closely with stakeholders to define and implement new features
       - Collaborated closely with stakeholders when implementing features
-      - Contributed to architectural design decisions
-      - Created documentation in Atlassian Confluence
-      - Created tickets in Atlassian JIRA
+      - Participated in architectural design decisions to improve system scalability and maintainability
+      - Documented workflows, technical designs, and best practices in Atlassian Confluence
+      - Tracked development tasks and project progress using Atlassian JIRA
   - role: Software Engineer
     time: December 2019 to August 2020
     company: Garmin
     details: |
-      - Managed legacy batch processes which rendered map tiles in Azure
-      - Developed tooling in Python, C#, and PowerShell to optimize batch processes
-      - Developed Python application to convert proprietary geospatial format to an open format using numpy
-      - Developed web scrapers to help analysts download raw geospatial data using Selenium and Scrapy
-      - Created documentation for these applications
+      - Maintained and optimized legacy batch processes for rendering map tiles in Azure
+      - Developed tooling in Python, C#, and PowerShell to improve batch process efficiency
+      - Built a Python application using NumPy to convert proprietary geospatial formats to open standards
+      - Created web scrapers with Selenium and Scrapy to automate geospatial data collection for analysts
+      - Documented applications and workflows to support maintainability and knowledge sharing
   - role: Software Engineer in Test
     time: March 2019 to August 2020
     company: dv01
     details: |
-      - Managed legacy batch processes which rendered map tiles in Azure
-      - Developed tooling in Python, C#, and PowerShell to optimize batch processes
-      - Developed Python application to convert proprietary geospatial format to an open format using numpy
-      - Developed web scrapers to help analysts download raw geospatial data using Selenium and Scrapy
-      - Created documentation for these applications
+      - Used R and Scala with Apache Spark to detect anomalies in financial data
+      - Built Spring Boot microservices to expose analytical data to other teams
+      - Developed R libraries to support data analysts in their workflows
+      - Created scrapers to extract data from PDF reports
+      - Contributed to Apache Airflow pipelines for orchestrating data flows
+      - Documented processes, tools, and workflows in Atlassian Confluence
+      - Managed development tasks and tracking in Atlassian JIRA
   - role: Programmer/Analyst
     time: June 2016 to March 2019
     company: New York City Department of Finance
     details: |
-      - Developed web scraper application for data collection from government websites
-      - Built internal web map application using React, Leaflet, and Flask to help property accessors
-      - Used SAS to maintain legacy reports
-      - Developed tooling in Python to run SAS programs on IBM OS/360 mainframe using FTP
-      - Collaborated with stakeholders on database schema development
-      - Responded to adhoc requests for data from various departments
+      - Developed a web scraper to collect data from government websites
+      - Built an internal web mapping application using React, Leaflet, and Flask to assist property assessors
+      - Maintained and updated legacy reports using SAS
+      - Developed Python tooling to execute SAS programs on an IBM OS/360 mainframe via FTP
+      - Collaborated with stakeholders to design and refine database schemas
+      - Fulfilled ad hoc data requests from various departments
   - role: GIS Engineer
     time: April 2014 to June 2016
     company: Winick Realty
     details: |
-      - Designed and maintained geospatial databases to used in analysis
-      - Scrapped various retailer websites using Scrapy to find store locations
-      - Scrapped third-party API's using Scrapy to find data to help develop maps and charts
-      - Stored data in PostGIS geodatabase
-      - Created maps with Adobe Illustrator with Avenza and PostGIS to be used for marketing materials
-      - Created charts with Python, ggplot2 and matplotlib to be used for marketing materials
-      - Responded to adhoc requests for data and maps
-      - Built internal web map application using Flask and jQuery to organize listings
-      - Collaborated with real estate brokers on marketing strategies
+      - Designed and maintained geospatial databases for real estate analysis
+      - Scraped retailer websites and third-party APIs using Scrapy to collect location and market data
+      - Stored and managed geospatial data in a PostGIS database
+      - Created marketing maps using Adobe Illustrator with Avenza and PostGIS
+      - Developed charts for marketing materials using Python, ggplot2, and matplotlib
+      - Built an internal web mapping application with Flask and jQuery to organize property listings
+      - Fulfilled ad hoc requests for maps and data analysis
+      - Collaborated with real estate brokers to support marketing strategies with geospatial insights
 
 skills:
   title: Skills &amp; Proficiency
