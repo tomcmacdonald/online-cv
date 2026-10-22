@@ -180,6 +180,9 @@ skills:
   - name: Databricks
     level: 90%
 
+  - name: Snowflake
+    level: 90%
+
   - name: R
     level: 85%
 
